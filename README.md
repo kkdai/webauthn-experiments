@@ -2,8 +2,9 @@
 
 Webauthn Experiments built with Go, CRA, Bulma.
 
-Live: [https://webauthn-experiments.herokuapp.com/](https://webauthn-experiments.herokuapp.com/)
+## Deploy 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Installation
 
